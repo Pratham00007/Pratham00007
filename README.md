@@ -9,7 +9,7 @@
 
 - 📄 Know about me [https://www.linkedin.com/in/pratham-khetrapal/](https://www.linkedin.com/in/pratham-khetrapal/)
 
-- Visit My Website : [https://pratham-portfolio-007.web.app/](https://pratham-portfolio-007.web.app/)
+- 🌐 Visit My Website : [https://pratham-portfolio-007.web.app/](https://pratham-portfolio-007.web.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
