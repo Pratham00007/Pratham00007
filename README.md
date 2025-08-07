@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **pratham10600@gmail.com**
 
-- 📄 Know about me [https://www.linkedin.com/in/pratham-khetrapal/](https://www.linkedin.com/in/pratham-khetrapal/)
+- 📄 Know about me [https://www.linkedin.com/in/pratham-khetrapal7/](https://www.linkedin.com/in/pratham-khetrapal/)
 
 - 🌐 Visit My Website : [https://pratham-portfolio-007.web.app/](https://pratham-portfolio-007.web.app/)
 
