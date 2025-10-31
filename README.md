@@ -3,6 +3,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratham00007" alt="pratham00007" /></a> </p>
 
+### GitHub Hacktoberfest Contribution Badges
+
+[![An image of @pratham00007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pratham00007)](https://holopin.io/@pratham00007)
+
 - 💬 Ask me about **Python, Web or App development**
 
 - 📫 How to reach me **pratham10600@gmail.com**
